@@ -1,30 +1,3 @@
-# import json
-#
-# with open("../File/users.json") as f:
-#     users = json.loads(f.read())
-#
-# users_list = users['users']
-#
-# for users in users_list:
-#     print(users['balance'])
-
-import csv
-from csv import DictReader
-
-# with open("../File/books.csv") as f:
-#     reader = csv.reader(f)
-#     header = next(reader)
-#     print(header)
-#
-#     for row in reader:
-#         print(row)
-
-# with open("../File/books.csv", newline='') as f:
-#     reader = DictReader(f)
-#
-#     for row in reader:
-#         print(row)
-
 import json
 import csv
 from csv import DictReader
