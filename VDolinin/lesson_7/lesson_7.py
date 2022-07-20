@@ -1,5 +1,4 @@
-from Pythoneer_Fate.VDolinin.lesson_7.classes.Opencart_classes import Opencart
-
+from classes.Opencart_classes import Opencart
 
 def test_PO_cat5(driver): #проверка тайтла при переходе по заголовку
     Opencart(driver).open_catalog_page()

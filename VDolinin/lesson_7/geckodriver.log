@@ -28,3 +28,67 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
 1656333888073	Marionette	INFO	Stopped listening on port 50380
+1658304098217	geckodriver	INFO	Listening on 127.0.0.1:52027
+1658304101277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofileCsxGZ3"
+1658304101585	geckodriver	INFO	Listening on 127.0.0.1:52033
+1658304104648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofileS5Rt2s"
+1658304106292	Marionette	INFO	Marionette enabled
+1658304106296	Marionette	INFO	Listening on port 52046
+WebDriver BiDi listening on ws://localhost:52034
+Read port: 52046
+1658304106386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofileS5Rt2s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52034/devtools/browser/d5b2712c-3565-47fd-80c9-37f1bfb99691
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658304110933	Marionette	INFO	Stopped listening on port 52046
+1658304111739	geckodriver	INFO	Listening on 127.0.0.1:52127
+1658304114785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofiledQ2t91"
+1658304115054	Marionette	INFO	Marionette enabled
+1658304115058	Marionette	INFO	Listening on port 52149
+WebDriver BiDi listening on ws://localhost:52128
+Read port: 52149
+1658304115235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofiledQ2t91\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52128/devtools/browser/106668d8-8553-4def-b10d-a8246621fc2e
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658304120126	Marionette	INFO	Stopped listening on port 52149
+1658304120797	geckodriver	INFO	Listening on 127.0.0.1:52198
+1658304123815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofiled8cFMq"
+1658304124076	Marionette	INFO	Marionette enabled
+1658304124080	Marionette	INFO	Listening on port 52208
+WebDriver BiDi listening on ws://localhost:52199
+Read port: 52208
+1658304124257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofiled8cFMq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52199/devtools/browser/bd411856-4426-4731-a86b-d4b2f14876ec
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658304129641	Marionette	INFO	Stopped listening on port 52208
+1658304130315	geckodriver	INFO	Listening on 127.0.0.1:52258
+1658304133368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofileiMEOhJ"
+1658304133647	Marionette	INFO	Marionette enabled
+1658304133651	Marionette	INFO	Listening on port 52268
+WebDriver BiDi listening on ws://localhost:52259
+Read port: 52268
+1658304133760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofileiMEOhJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52259/devtools/browser/a82c9413-6e76-4591-b4b2-9448485b0040
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658304138662	Marionette	INFO	Stopped listening on port 52268
+1658304139267	geckodriver	INFO	Listening on 127.0.0.1:52318
+1658304142300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofilei1Ce5A"
+1658304142569	Marionette	INFO	Marionette enabled
+1658304142573	Marionette	INFO	Listening on port 52334
+WebDriver BiDi listening on ws://localhost:52319
+Read port: 52334
+1658304142756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\murse\\AppData\\Local\\Temp\\rust_mozprofilei1Ce5A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52319/devtools/browser/8f9cc243-e1e3-45f3-b51c-887fc208191d
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.opencart.ru"
+1658304147302	Marionette	INFO	Stopped listening on port 52334
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
